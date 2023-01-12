@@ -1,4 +1,4 @@
-name: Custom.Anydesk.Collectors.File
+name: Anydesk.Collectors.File
 description: |
    Simple artifact to collect anydesk log files.
    
